@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Thiago Silva</h1>
 
-<h3 align="center">Hello! I'm Thiago, a passionate **Quality Assurance (QA)** professional with a solid foundation in both **manual and automated testing**. I recently completed an intensive QA Bootcamp and I’m eager to contribute to high-quality software development through structured testing practices.</h3>
+<h3 align="center">Hello! I'm Thiago, a passionate Quality Assurance (QA) professional with a solid foundation in both manual and automated testing. I recently completed an intensive QA Bootcamp and I’m eager to contribute to high-quality software development through structured testing practices.</h3>
 
 ---
 
