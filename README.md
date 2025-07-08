@@ -1,62 +1,87 @@
 <h1 align="center">👨‍💻 Thiago Silva</h1>
 
-Hello! I'm Thiago, a passionate Quality Assurance (QA) professional with a solid foundation in both manual and automated testing. I recently completed an intensive QA Bootcamp and I’m eager to contribute to high-quality software development through structured testing practices.
+# 👋 Hello, I'm Thiago Silva
+I'm an experienced **IT Technician** and **Quality Assurance (QA) professional**, with a solid foundation in both **hardware maintenance** and **software testing**. Over the years, I've worked on laptop and desktop repairs, support ticket systems, and QA practices including **manual and automated testing** using modern tools and frameworks.
 
 ---
 
-### 🔭 Currently Working On
-Automated Web Application Testing  
-> Developing a suite of automated regression tests for a sample web application, focusing on critical features such as login, user flow, and form validation using Selenium and Python.
+## 🔧 Professional Background
+
+- IT Support & Hardware Repairs (Laptops, Desktops, Workstations)
+- Manual & Automated QA Testing
+- Ticketing Systems (DELL Service Now)
+- API and Web Testing with Selenium, Python, and Postman
 
 ---
 
-### 🌱 Currently Learning
-- QA Bootcamp Graduate  
-- Systems Development Technician  
-- Programming Languages: HTML5, CSS, Python, SQL  
-- Tools & Platforms: Jira, Postman, Git, GitHub  
+## 🔭 Currently Working On
+
+**Automated Web Application Testing**
+
+Developing a suite of automated regression tests for sample applications. Focus areas include login workflows, user interactions, and form validation using **Selenium**, **Python**, and **Pytest**.
 
 ---
 
-### 👯 Looking to Collaborate On
-API Testing with Postman  
-> Creating test collections to validate endpoints, perform authentication and authorization testing, and measure API performance.
+## 🌱 Currently Learning & Practicing
+
+- QA Bootcamp Graduate *(Tripleten, Online)*
+- Bachelor’s Degree in Software Engineering *(Descomplica Uni, Brazil)*
+- Web Development (HTML5, CSS3, JS, Python, SQL)
+- Tools: **Jira**, **Postman**, **Git**, **GitHub**, **Figma**
 
 ---
 
-### 🤝 Looking For Help With
-Manual testing documentation best practices — test plans, bug tracking, and test reporting.
+## 👯 Looking to Collaborate On
+
+- **API Testing with Postman**  
+  Creating test collections, running endpoint validations, and testing authentication flows.
 
 ---
 
-### 💬 Ask Me About
-- Test case design  
-- Bug reporting  
-- Exploratory testing  
-- Regression test automation  
+## 🤝 Looking For Help With
+
+- Best practices for **test documentation**, including:
+  - Test plans
+  - Bug tracking/reporting
+  - QA metrics and reporting formats
 
 ---
 
-### 📫 Contact Me
+## 💬 Ask Me About
+
+- Test case design & execution
+- Bug reporting tools
+- Exploratory & regression testing
+- QA processes in agile environments
+- PC & hardware troubleshooting
+
+---
+
+## 📫 Contact Me
+
 📧 Email: thiagocr93@hotmail.com.br  
-🌐 GitHub: [thiagosilvaqa](https://github.com/thiagosilvaqa93)
+🌐 GitHub: [@thiagosilvaqa93](https://github.com/thiagosilvaqa93)
 
 ---
 
-### ⚡ Fun Facts
-In my free time, I enjoy playing **soccer**, **chess**, and playing the **guitar**.
+## ⚡ Fun Facts
+
+- I love **soccer**, **playing guitar**, **chess**, and **hiking**
+- Fluent in **Portuguese** and **German**, with advanced **English** and **Spanish**
 
 ---
 
-### 🧰 Languages & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+## 🧰 Languages & Tools
+
+**Languages:**  
+HTML5 · CSS3 · Python · SQL · JavaScript  
+
+**Testing & Dev Tools:**  
+Selenium · Postman · Pytest · Jira · Git · GitHub · Figma · Photoshop
+
+**Systems & Support:**  
+Windows troubleshooting · DELL hardware repairs · ServiceNow ticket system
 
 ---
+
+> *“Quality is never an accident; it is always the result of intelligent effort.”* – John Ruskin
