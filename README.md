@@ -8,8 +8,8 @@ Hello! I'm Thiago, an experienced **IT Technician** and **Quality Assurance (QA)
 
 - IT Support & Hardware Repairs (Laptops, Desktops, Workstations)
 - Manual & Automated QA Testing
-- Ticketing Systems (DELL ServiceNow)
-- API and Web Testing with Selenium, Python, and Postman
+- Ticketing Systems 
+- API and Web Testing with Selenium, Python and Postman
 
 ---
 
