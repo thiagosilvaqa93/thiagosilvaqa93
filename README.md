@@ -1,120 +1,169 @@
 # 👨‍💻 Thiago Silva
 
-## Software Engineering Student | Aspiring QA Engineer | IT Support Specialist
+## QA Engineer in Transition | Software Engineering Student | IT Support & Systems Integration Background
 
-Hello! I'm Thiago Silva, a Software Engineering student with a background in IT Support and hardware maintenance, currently transitioning into Software Quality Assurance (QA).
+Hello! I'm Thiago Silva, a Software Engineering student with professional experience in IT Support and Systems Integration, currently transitioning into Software Quality Assurance (QA).
 
-My experience supporting users, troubleshooting technical issues, and maintaining computer systems has strengthened my analytical thinking, attention to detail, and problem-solving skills. I am now focused on building a career in QA through practical projects, continuous learning, and test automation.
+My experience in enterprise IT environments has given me strong skills in troubleshooting, system administration, incident management, and technical support. This background helps me build a strong QA mindset focused on system behavior, problem analysis, and software quality.
+
+I am currently developing practical experience in QA through test automation, manual testing, and real-world projects.
 
 ---
 
 ## 🚀 What I'm Working On
 
-* Automated Web Testing with Selenium and Python
-* API Testing using Postman
-* Manual Testing
-* Regression Testing
-* Test Case Design
-* Bug Reporting
-* SQL Data Validation
-* Git & GitHub workflows
+- Automated Web Testing using Selenium and Python  
+- API Testing with Postman  
+- Manual Testing & Test Case Design  
+- Regression Testing and exploratory testing  
+- Bug Reporting and defect lifecycle tracking  
+- SQL data validation and database testing  
+- Git & GitHub workflows  
+
+---
+
+## 🧪 QA Focus Areas
+
+- Manual & Exploratory Testing  
+- Test Case Design & Execution  
+- API Testing (REST APIs with Postman)  
+- Test Automation (Selenium + Python)  
+- Bug Reporting & Defect Lifecycle  
+- Agile testing (Scrum environments)  
+- Basic CI/CD concepts  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
+- Python  
+- SQL  
+- JavaScript  
+- HTML5  
+- CSS3  
 
-* Python
-* SQL
-* JavaScript
-* HTML5
-* CSS3
+### 🧪 Testing & QA Tools
+- Selenium WebDriver  
+- Pytest  
+- Unittest  
+- Postman  
+- Jira / Jira Service Management  
 
-### 🔧 QA & Development Tools
+### 🔧 Version Control & Collaboration
+- Git  
+- GitHub  
 
-* Selenium
-* Pytest
-* Unittest
-* Postman
-* Jira
-* Git
-* GitHub
-* Figma
-* Photoshop
+### 🖥 IT & Systems Background
+- IT Support  
+- System Administration  
+- System Integration  
+- Troubleshooting  
+- Incident Management  
+- Technical Documentation  
 
 ---
 
 ## 🎓 Education
 
-**Bachelor's Degree in Software Engineering**
-Descomplica University (Brazil)
-**Expected Graduation:** 2029
+### Bachelor’s Degree in Software Engineering  
+Descomplica University (Brazil)  
+Feb 2025 – Jan 2029  
 
-**QA Bootcamp Graduate**
-TripleTen
+Focus on software engineering fundamentals, databases, programming, and software testing. Currently applying knowledge in QA projects involving manual testing, API testing, and automation.
+
+---
+
+### QA Bootcamp  
+TripleTen Brasil  
+
+Hands-on training in Software Quality Assurance:
+
+- Manual Testing  
+- API Testing (Postman)  
+- Test Case Design  
+- Bug Reporting  
+- SQL Validation  
+- Agile (Scrum)  
+- Jira workflows  
+
+---
+
+### Web Development Training  
+SENAI/SC – Serviço Nacional de Aprendizagem Industrial  
+Sep 2022 – Jul 2024  
+
+Foundational training in programming and web development.
+
+- Python programming  
+- HTML, CSS, JavaScript  
+- Software logic fundamentals  
+- Introduction to databases  
 
 ---
 
 ## 🌱 Currently Learning
 
-* Test Automation
-* API Testing
-* SQL for Database Validation
-* Agile (Scrum)
-* CI/CD Fundamentals
-* Python for QA Automation
+- Advanced Selenium automation (Python frameworks)  
+- API testing strategies  
+- SQL for complex validation  
+- CI/CD pipelines  
+- QA best practices in Agile teams  
 
 ---
 
-## 🤝 Open to Collaborate
+## 🤝 Open to Collaborate On
 
-* QA Automation Projects
-* Selenium + Python
-* API Testing with Postman
-* Open Source QA Projects
+- QA Automation projects  
+- Selenium + Python frameworks  
+- API testing projects  
+- Open-source QA contributions  
 
 ---
 
 ## 💬 Ask Me About
 
-* Manual Testing
-* Test Case Design
-* Bug Reporting
-* Regression Testing
-* Exploratory Testing
-* API Testing
-* IT Support & Hardware Troubleshooting
+- Manual testing & QA processes  
+- Test case design  
+- Bug reporting & debugging  
+- API testing  
+- IT support & system troubleshooting  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 **Email:** thiagocr93@hotmail.com.br  
-🌐 **GitHub:** [@thiagosilvaqa93](https://github.com/thiagosilvaqa93)
-
----
-
-## ⚡ Fun Facts
-
-- ⚽ I love **soccer**, 🎸 **guitar**, ♟️ **chess**, and ⛰️ **hiking**
-- 🌍 Fluent in **Portuguese** and **German**, advanced **English** and **Spanish**
+📧 Email: thiagocr93@hotmail.com  
+🌐 GitHub: https://github.com/thiagosilvaqa93  
+💼 LinkedIn: https://www.linkedin.com/in/thiago-silva-6351b3323  
 
 ---
 
 ## 🧰 Languages & Tools
 
-**Languages & Markup:**  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+### Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-**Tools & Platforms:**  
+### Testing & QA Tools
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
+
+### Version Control
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
+
+---
+
+## ⚡ Interests
+
+Football, guitar, chess, and hiking.  
+I enjoy activities that develop discipline, strategy, and continuous learning.
+
+---
+
+⭐ Always learning. Always testing. Always improving.
