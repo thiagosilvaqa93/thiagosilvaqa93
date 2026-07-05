@@ -1,63 +1,90 @@
-<h1 align="center">👨‍💻 Thiago Silva</h1>
+# 👨‍💻 Thiago Silva
 
-Hello! I'm Thiago, an experienced **IT Technician** and **Quality Assurance (QA) professional**, with a solid foundation in both **hardware maintenance** and **software testing**. Over the years, I've worked on laptop and desktop repairs, support ticket systems, and QA practices including **manual and automated testing** using modern tools and frameworks.
+## Software Engineering Student | Aspiring QA Engineer | IT Support Specialist
 
----
+Hello! I'm Thiago Silva, a Software Engineering student with a background in IT Support and hardware maintenance, currently transitioning into Software Quality Assurance (QA).
 
-## 🔧 Professional Background
-
-- IT Support & Hardware Repairs (Laptops, Desktops, Workstations)
-- Manual & Automated QA Testing
-- Ticketing Systems 
-- API and Web Testing with Selenium, Python and Postman
+My experience supporting users, troubleshooting technical issues, and maintaining computer systems has strengthened my analytical thinking, attention to detail, and problem-solving skills. I am now focused on building a career in QA through practical projects, continuous learning, and test automation.
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 What I'm Working On
 
-**Automated Web Application Testing**  
-Building a suite of automated regression tests for sample applications. Focus areas include login workflows, user interactions, and form validation using:
-
-- 🐍 **Selenium + Python**
-- ✅ **Pytest**
-- 🧪 **Unittest**
-
----
-
-## 🌱 Currently Learning & Practicing
-
-- 🎓 QA Bootcamp Graduate *(Tripleten, Online)*
-- 🎓 Currently pursuing a *Bachelor's Degree in Software Engineering* (Descomplica Uni, Brazil – expected graduation: 2029)
-- 🛠️ Web Development:  
-  - 🌐 HTML5, 🎨 CSS3, 💻 JavaScript, 🐍 Python, 🗃️ SQL
-- 🔧 Tools:  
-  - 📋 Jira, 🔗 Postman, 🐙 Git & GitHub, 🎨 Figma, 🖼️ Photoshop
+* Automated Web Testing with Selenium and Python
+* API Testing using Postman
+* Manual Testing
+* Regression Testing
+* Test Case Design
+* Bug Reporting
+* SQL Data Validation
+* Git & GitHub workflows
 
 ---
 
-## 👯 Looking to Collaborate On
+## 🛠 Tech Stack
 
-- 🧪 **API Testing with Postman**  
-  Creating test collections, validating endpoints, and testing authentication flows.
+### 💻 Languages
+
+* Python
+* SQL
+* JavaScript
+* HTML5
+* CSS3
+
+### 🔧 QA & Development Tools
+
+* Selenium
+* Pytest
+* Unittest
+* Postman
+* Jira
+* Git
+* GitHub
+* Figma
+* Photoshop
 
 ---
 
-## 🤝 Looking For Help With
+## 🎓 Education
 
-- 📝 **Test documentation best practices**, including:
-  - Test plans  
-  - Bug tracking/reporting  
-  - QA metrics and test reports
+**Bachelor's Degree in Software Engineering**
+Descomplica University (Brazil)
+**Expected Graduation:** 2029
+
+**QA Bootcamp Graduate**
+TripleTen
+
+---
+
+## 🌱 Currently Learning
+
+* Test Automation
+* API Testing
+* SQL for Database Validation
+* Agile (Scrum)
+* CI/CD Fundamentals
+* Python for QA Automation
+
+---
+
+## 🤝 Open to Collaborate
+
+* QA Automation Projects
+* Selenium + Python
+* API Testing with Postman
+* Open Source QA Projects
 
 ---
 
 ## 💬 Ask Me About
 
-- ✅ Test case design & execution  
-- 🐞 Bug reporting & defect lifecycle  
-- 🔄 Exploratory & regression testing  
-- 🧪 QA processes in agile environments  
-- 🛠️ PC & hardware troubleshooting
+* Manual Testing
+* Test Case Design
+* Bug Reporting
+* Regression Testing
+* Exploratory Testing
+* API Testing
+* IT Support & Hardware Troubleshooting
 
 ---
 
