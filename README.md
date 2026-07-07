@@ -229,4 +229,4 @@ I enjoy activities that develop discipline, strategy, and continuous learning.
 
 ---
 
-⭐ Always learning. Always testing. Always improving.# 👨‍💻 Thiago Silva
+⭐ Always learning. Always testing. Always improving.
