@@ -1,169 +1,232 @@
 # 👨‍💻 Thiago Silva
 
-## QA Engineer in Transition | Software Engineering Student | IT Support & Systems Integration Background
+## QA Engineer | Test Automation | Software Engineering Student
 
-Hello! I'm Thiago Silva, a Software Engineering student with professional experience in IT Support and Systems Integration, currently transitioning into Software Quality Assurance (QA).
+Hello! I'm Thiago Silva, a Software Engineering student and QA professional building expertise in Software Quality Assurance, Test Automation, and Software Testing.
 
-My experience in enterprise IT environments has given me strong skills in troubleshooting, system administration, incident management, and technical support. This background helps me build a strong QA mindset focused on system behavior, problem analysis, and software quality.
+With a background in **IT Support and Systems Integration**, I have experience with troubleshooting, incident management, system analysis, and technical problem-solving. This experience helps me approach QA with a strong focus on software reliability, user experience, and defect prevention.
 
-I am currently developing practical experience in QA through test automation, manual testing, and real-world projects.
-
----
-
-## 🚀 What I'm Working On
-
-- Automated Web Testing using Selenium and Python  
-- API Testing with Postman  
-- Manual Testing & Test Case Design  
-- Regression Testing and exploratory testing  
-- Bug Reporting and defect lifecycle tracking  
-- SQL data validation and database testing  
-- Git & GitHub workflows  
+Currently, I am developing practical experience through automation projects, manual testing, API testing, and continuous learning in software quality.
 
 ---
 
-## 🧪 QA Focus Areas
+# 🚀 About Me
 
-- Manual & Exploratory Testing  
-- Test Case Design & Execution  
-- API Testing (REST APIs with Postman)  
-- Test Automation (Selenium + Python)  
-- Bug Reporting & Defect Lifecycle  
-- Agile testing (Scrum environments)  
-- Basic CI/CD concepts  
+- 🧪 QA Engineer focused on Software Testing and Automation
+- 🎓 Software Engineering student
+- 💻 Background in IT Support and Systems Integration
+- 🌎 Interested in QA Automation, Agile environments, and software quality
+- 🚀 Building real-world testing projects using modern tools
 
 ---
 
-## 🛠 Tech Stack
+# 🧪 QA Skills
 
-### 💻 Programming Languages
-- Python  
-- SQL  
-- JavaScript  
-- HTML5  
-- CSS3  
+### Manual Testing
+- Test Case Design
+- Test Execution
+- Exploratory Testing
+- Regression Testing
+- Smoke Testing
+- Bug Reporting
+- Defect Lifecycle Management
 
-### 🧪 Testing & QA Tools
-- Selenium WebDriver  
-- Pytest  
-- Unittest  
-- Postman  
-- Jira / Jira Service Management  
+### Automation Testing
+- End-to-End Testing
+- UI Automation
+- Web Application Testing
+- Test Framework Development
+- Automated Regression Testing
 
-### 🔧 Version Control & Collaboration
-- Git  
-- GitHub  
-
-### 🖥 IT & Systems Background
-- IT Support  
-- System Administration  
-- System Integration  
-- Troubleshooting  
-- Incident Management  
-- Technical Documentation  
+### API & Data Testing
+- REST API Testing
+- Postman
+- SQL Validation
+- Database Testing Fundamentals
 
 ---
 
-## 🎓 Education
+# 🛠 Tech Stack
 
-### Bachelor’s Degree in Software Engineering  
-Descomplica University (Brazil)  
-Feb 2025 – Jan 2029  
+## 🧪 Testing & Automation
 
-Focus on software engineering fundamentals, databases, programming, and software testing. Currently applying knowledge in QA projects involving manual testing, API testing, and automation.
+- Playwright
+- Selenium WebDriver
+- Pytest
+- Unittest
+- Postman
+- Jira / Jira Service Management
 
----
+## 💻 Programming Languages
 
-### QA Bootcamp  
-TripleTen Brasil  
+- Python
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
-Hands-on training in Software Quality Assurance:
+## 🔧 Version Control & Tools
 
-- Manual Testing  
-- API Testing (Postman)  
-- Test Case Design  
-- Bug Reporting  
-- SQL Validation  
-- Agile (Scrum)  
-- Jira workflows  
-
----
-
-### Web Development Training  
-SENAI/SC – Serviço Nacional de Aprendizagem Industrial  
-Sep 2022 – Jul 2024  
-
-Foundational training in programming and web development.
-
-- Python programming  
-- HTML, CSS, JavaScript  
-- Software logic fundamentals  
-- Introduction to databases  
+- Git
+- GitHub
+- VS Code
+- Agile / Scrum workflows
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- Advanced Selenium automation (Python frameworks)  
-- API testing strategies  
-- SQL for complex validation  
-- CI/CD pipelines  
-- QA best practices in Agile teams  
+## ☕ Silva Café Website
 
----
+Responsive fictional coffee shop website built with HTML, CSS, and JavaScript.
 
-## 🤝 Open to Collaborate On
+Features:
+- Responsive design
+- German-language content
+- Product menu
+- Customer reviews
+- Google Maps integration
 
-- QA Automation projects  
-- Selenium + Python frameworks  
-- API testing projects  
-- Open-source QA contributions  
+Repository:
 
----
+https://github.com/thiagosilvaqa93/Silva-Cafe
 
-## 💬 Ask Me About
-
-- Manual testing & QA processes  
-- Test case design  
-- Bug reporting & debugging  
-- API testing  
-- IT support & system troubleshooting  
 
 ---
 
-## 📫 Contact
+## 🧪 Silva Café QA Automation
 
-📧 Email: thiagocr93@hotmail.com  
-🌐 GitHub: https://github.com/thiagosilvaqa93  
-💼 LinkedIn: https://www.linkedin.com/in/thiago-silva-6351b3323  
+End-to-end automation testing project using Playwright.
 
----
+Test coverage:
 
-## 🧰 Languages & Tools
+- Navigation testing
+- UI validation
+- Responsive testing
+- Automated browser testing
 
-### Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+Technologies:
 
-### Testing & QA Tools
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
+- Playwright
+- JavaScript
+- Node.js
 
-### Version Control
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+Repository:
+
+https://github.com/thiagosilvaqa93/silva-cafe-automation
+
 
 ---
 
-## ⚡ Interests
+# 🖥 IT & Systems Background
 
-Football, guitar, chess, and hiking.  
+My previous experience in IT environments developed strong skills in:
+
+- Technical troubleshooting
+- System administration
+- Incident management
+- User support
+- System integration
+- Technical documentation
+
+These skills help me investigate problems, understand system behavior, and improve software quality.
+
+---
+
+# 🎓 Education
+
+## Bachelor’s Degree in Software Engineering
+
+**Descomplica University (Brazil)**  
+Feb 2025 – Jan 2029
+
+Focus areas:
+
+- Software development
+- Databases
+- Programming
+- Software testing
+- Engineering fundamentals
+
+
+## QA Bootcamp
+
+**TripleTen Brasil**
+
+Hands-on experience with:
+
+- Manual Testing
+- API Testing
+- Test Case Design
+- Bug Reporting
+- SQL Validation
+- Agile methodologies
+- Jira workflows
+
+
+## Web Development Training
+
+**SENAI/SC – Serviço Nacional de Aprendizagem Industrial**
+
+Sep 2022 – Jul 2024
+
+Topics:
+
+- Python programming
+- HTML
+- CSS
+- JavaScript
+- Programming fundamentals
+- Databases
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Test Automation Frameworks
+- Playwright best practices
+- Selenium automation with Python
+- API testing strategies
+- SQL validation techniques
+- CI/CD pipelines
+- QA best practices in Agile teams
+
+---
+
+# 🤝 Open To Collaborate On
+
+- QA Automation projects
+- Software Testing projects
+- Open-source QA contributions
+- Web application testing
+- Automation frameworks
+
+---
+
+# 📫 Contact
+
+📧 Email: thiagocr93@hotmail.com
+
+🌐 GitHub:
+https://github.com/thiagosilvaqa93
+
+💼 LinkedIn:
+https://www.linkedin.com/in/thiago-silva-6351b3323
+
+
+---
+
+# ⚡ Personal Interests
+
+Outside technology, I enjoy:
+
+⚽ Football  
+🎸 Guitar  
+♟ Chess  
+🥾 Hiking  
+
 I enjoy activities that develop discipline, strategy, and continuous learning.
 
 ---
 
-⭐ Always learning. Always testing. Always improving.
+⭐ Always learning. Always testing. Always improving.# 👨‍💻 Thiago Silva
